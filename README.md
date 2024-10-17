@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white" alt="42"/>
 </p>
 <p align="center">
-  Welcome aboard Transcendacia! Embark on a journey through our cosmic vessel where you'll discover various planets: one for managing your profile, another for engaging in exhilarating Pong matches, and a third for participating in tournaments. Get ready for an extraordinary experience in our project!
+  Welcome aboard the vessel Transcendacia! Embark on a journey through our cosmic vessel where you'll discover various planets: one for managing your profile, another for engaging in exhilarating Pong matches, and a third for participating in tournaments. Get ready for an extraordinary experience in our project!
 </p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b2cdba29-6dfa-4bb1-bda2-36cd84c5570c" alt="galaxy" width="400"/>
