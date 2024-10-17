@@ -74,8 +74,9 @@ The application is built with three main services:
 
 ## 📦 Installation
 ```bash
-# Copy this to a .env file 
-Setup and Running
+#Add environnement
+Rename env_example to a .env 
+
 
 # Clone the repository
 git clone https://github.com/lciullo/Transcendence
