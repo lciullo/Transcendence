@@ -121,7 +121,7 @@ make prune
 - ✅ Statistics dashboard
 
 ## 👥 Development Team
-- **Lisa Ciullo** - [@lciullo](https://github.com/YOUR_USERNAME)
+- **Lisa Ciullo** - [@lciullo](https://github.com/lciullo)
 - **Clémence Llovio** - [@clemllovio](https://github.com/clemllovio)
 - **Maxime Finette** - [@mfinette](https://github.com/mfinette)
 - **Colas Gelin** - [@Dryff](https://github.com/Dryff)
