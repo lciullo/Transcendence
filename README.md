@@ -1,5 +1,4 @@
 <h1 align="center"> 👽 Transcendence</h1>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
@@ -9,13 +8,22 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white" alt="42"/>
 </p>
-
 <p align="center">
-  Welcome aboard Transcendacia! Embark on a journey through our cosmic vessel where you'll discover various planets: one for managing your profile, another for engaging in exhilarating Pong matches, and a third for participating in tournaments. Will you find the hidden 42 in the galaxy? Get ready for an extraordinary experience in our project!
+  Welcome aboard Transcendacia! Embark on a journey through our cosmic vessel where you'll discover various planets: one for managing your profile, another for engaging in exhilarating Pong matches, and a third for participating in tournaments. Get ready for an extraordinary experience in our project!
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b2cdba29-6dfa-4bb1-bda2-36cd84c5570c" alt="galaxy" width="400"/>
+  <img src="https://github.com/user-attachments/assets/dcbe1e72-973f-4342-b96c-02e122fb4338" alt="vessel" width="400"/>
 </p>
 
 ## 📋 Overview
 ft_transcendence is a sophisticated web application that reimagines the classic Pong game in a modern, multiplayer context. Built using Django and featuring advanced 3D graphics, this Single Page Application (SPA) offers an immersive gaming experience with robust user management and security features.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cf736690-7eac-4ed9-b669-7afb75b35891" alt="game" width="800"/>
+</p>
+
+
 
 ## ✨ Key Features
 
@@ -27,7 +35,6 @@ ft_transcendence is a sophisticated web application that reimagines the classic 
 - Advanced 3D graphics using Three.js
 
 ### 👤 User Management
-- Secure authentication system with 2FA
 - JWT implementation
 - User profiles and statistics
 - GDPR-compliant data management
@@ -134,3 +141,4 @@ The application is containerized using Docker, making it easy to deploy across d
 
 ## 📝 License
 This project is part of the 42 school curriculum.
+
