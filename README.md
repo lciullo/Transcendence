@@ -84,10 +84,6 @@ git clone https://github.com/lciullo/Transcendence
 # Navigate to project directory
 cd Transcendence
 
-# Copy and configure your .env file
-cp .env.example .env
-# Edit .env with your configuration
-
 # Build and start the project
 make
 
