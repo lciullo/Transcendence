@@ -74,14 +74,30 @@ The application is built with three main services:
 
 ## 📦 Installation
 ```bash
+# Copy this to a .env file 
+Setup and Running
+
 # Clone the repository
 git clone https://github.com/lciullo/Transcendence
 
 # Navigate to project directory
 cd Transcendence
 
-# Build and run with Docker
-docker-compose up --build
+# Copy and configure your .env file
+cp .env.example .env
+# Edit .env with your configuration
+
+# Build and start the project
+make
+
+# Stop the project
+make down
+
+# Clean the project
+make fclean
+
+# Remove all containers and project data
+make prune
 ```
 
 ## 🎯 Project Modules
