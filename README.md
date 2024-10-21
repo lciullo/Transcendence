@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white" alt="42"/>
 </p>
 <p align="center">
-  Welcome aboard spaceship Transcendacia! Embark on a journey through our cosmic vessel where you'll discover various planets: one for managing your profile, another for engaging in exhilarating Pong matches, and a third for participating in tournaments. Get ready for an extraordinary experience in our project!
+  Welcome aboard spaceship Transcendacia! Embark on a journey through our cosmic vessel where you'll discover various planets : one for managing your profile, another for engaging in exhilarating Pong matches, and a third for participating in tournaments. Get ready for an extraordinary experience in our project !
 </p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b2cdba29-6dfa-4bb1-bda2-36cd84c5570c" alt="galaxy" width="400"/>
@@ -17,7 +17,7 @@
 </p>
 
 ## 📋 Overview
-ft_transcendence is a sophisticated web application that reimagines the classic Pong game in a modern, multiplayer context. Built using Django and featuring advanced 3D graphics, this Single Page Application (SPA) offers an immersive gaming experience with robust user management and security features.
+Transcendence is a sophisticated web application that reimagines the classic Pong game in a modern, multiplayer context. Built using Django and featuring advanced 3D graphics, this Single Page Application (SPA) offers an immersive gaming experience with robust user management and security features.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cf736690-7eac-4ed9-b669-7afb75b35891" alt="game" width="800"/>
